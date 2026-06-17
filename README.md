@@ -44,10 +44,10 @@ Material S11 Measurements
 
 ```text
 .
-├── stuchly_stuchly_csv_pipeline.m
+├── stuchly_stuchly_pipeline.m
 │
 ├── example_data/
-│   ├── Reference_data/
+│   ├── Reference data/
 │   └── Measurements/
 │
 └── Results/
